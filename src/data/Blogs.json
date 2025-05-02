@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "5 Ways to Stay Productive While Working Remotely",
+    "author": "Aarav Patel",
+    "date": "2025-04-20",
+    "category": "Productivity",
+    "excerpt": "Working from home can blur the lines between personal and professional life. In this blog, we explore five actionable strategies to help you stay focused, structure your day effectively, and create a workspace that boosts your productivity.",
+    "thumbnail": "https://images.unsplash.com/photo-1483058712412-4245e9b90334"
+  },
+  {
+    "id": 2,
+    "title": "Understanding JavaScript Closures",
+    "author": "Riya Shah",
+    "date": "2025-03-18",
+    "category": "Programming",
+    "excerpt": "JavaScript closures can be confusing for beginners, but they are a powerful tool when understood well. This article breaks down closures with easy-to-follow examples and explains how they help manage scope and memory efficiently.",
+    "thumbnail": "https://images.unsplash.com/photo-1653387300291-bfa1eeb90e16"
+  },
+  {
+    "id": 3,
+    "title": "Top 10 Travel Destinations in 2025",
+    "author": "Neha Kulkarni",
+    "date": "2025-04-10",
+    "category": "Travel",
+    "excerpt": "Looking for travel inspiration in 2025? From hidden gems to iconic landmarks, this list highlights ten destinations that promise unforgettable experiences, natural beauty, and vibrant cultures to explore this year.",
+    "thumbnail": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+  },
+  {
+    "id": 4,
+    "title": "Mastering SQL Joins: A Visual Guide",
+    "author": "Siddharth Mehta",
+    "date": "2025-02-28",
+    "category": "Data Science",
+    "excerpt": "SQL joins are crucial for working with relational databases. This blog provides a visual and practical guide to mastering INNER, LEFT, RIGHT, and FULL OUTER joins with simple examples and use cases.",
+    "thumbnail": "https://images.unsplash.com/photo-1740908900846-4bbd4f22c975"
+  },
+  {
+    "id": 5,
+    "title": "How to Build a Full-Stack App with MERN",
+    "author": "Purvi Murkute",
+    "date": "2025-03-30",
+    "category": "Web Development",
+    "excerpt": "In this comprehensive tutorial, we walk you through building a full-stack application using MongoDB, Express, React, and Node.js. Learn how to create a scalable app with user authentication and database integration.",
+    "thumbnail": "https://images.unsplash.com/photo-1498050108023-c5249f4df085"
+  },
+  {
+    "id": 6,
+    "title": "Beginner’s Guide to Mindfulness Meditation",
+    "author": "Anjali Deshmukh",
+    "date": "2025-04-05",
+    "category": "Health",
+    "excerpt": "Mindfulness meditation is a powerful tool for reducing stress and improving focus. This blog introduces beginners to simple techniques and tips to help start a consistent and rewarding meditation practice.",
+    "thumbnail": "https://plus.unsplash.com/premium_photo-1713720411896-795853998a58"
+  },
+  {
+    "id": 7,
+    "title": "Why React is Still Dominating Front-End Development",
+    "author": "Rahul Nair",
+    "date": "2025-01-15",
+    "category": "Technology",
+    "excerpt": "Despite the rise of new frameworks, React remains a dominant force in front-end development. This post explores why developers still love React for its component-based architecture, flexibility, and community support.",
+    "thumbnail": "https://images.unsplash.com/photo-1633356122544-f134324a6cee"
+  },
+  {
+    "id": 8,
+    "title": "Data Visualization Tools You Should Know in 2025",
+    "author": "Priya Verma",
+    "date": "2025-04-12",
+    "category": "Data Analytics",
+    "excerpt": "Choosing the right data visualization tool can elevate your analysis. This blog compares top tools in 2025, including Power BI, Tableau, and open-source options, helping you find the best fit for your project needs.",
+    "thumbnail": "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3"
+  },
+  {
+    "id": 9,
+    "title": "A Developer's Guide to AWS Basics",
+    "author": "Kunal Joshi",
+    "date": "2025-03-02",
+    "category": "Cloud Computing",
+    "excerpt": "Amazon Web Services (AWS) offers powerful solutions for cloud computing. This guide introduces key AWS services like EC2, S3, and Lambda, and walks you through their use in real-world development scenarios.",
+    "thumbnail": "https://images.unsplash.com/photo-1649734926695-1b1664e98842"
+  },
+  {
+    "id": 10,
+    "title": "The Psychology of Effective Team Collaboration",
+    "author": "Meera Iyer",
+    "date": "2025-04-25",
+    "category": "Workplace",
+    "excerpt": "Strong collaboration is essential for team success. Learn how psychological principles like trust, communication, and motivation play a vital role in building productive and innovative teams.",
+    "thumbnail": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d"
+  }
+]
